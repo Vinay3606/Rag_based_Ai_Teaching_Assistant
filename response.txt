@@ -1,0 +1,7 @@
+I'd be happy to help with your Sigma Web Development Course.
+
+You're currently watching the "Introduction to CSS" video (Video 14). 
+
+In this video, you'll learn about CSS and how it's used. The video starts at around 48 seconds where CSS is described as a styling language for HTML documents, and then continues until approximately 260 seconds when CSS is mentioned in relation to its completion.
+
+You can find all the information related to CSS from Video 14 starting at 48 seconds, going up until around 260 seconds.
