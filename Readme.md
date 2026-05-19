@@ -8,7 +8,7 @@ Convert all the video files to mp3 by running video_to_mp3
 ## Step 3 - Convert mp3 to json
 Convert all the mp3 files to json by running mp3_to_json
 
-## Step 4 - COnvert the jsons files to Vectors
+## Step 4 - Convert the jsons files to Vectors
 Use the file preproces_json to convert the json files to a dataframe with embedding and save it as a joblib pickle 
 
 ## Step 5 - Prompt Generation and Feeding to the LLM
