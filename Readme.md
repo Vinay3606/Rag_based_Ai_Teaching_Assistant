@@ -198,7 +198,7 @@ When a user asks a question, the system retrieves the most relevant transcript c
 For broader questions, the assistant combines multiple relevant transcript chunks from different videos to generate a comprehensive and context-aware response while preserving timestamp references.
 
 <p align="center">
-  <img src="screenshots/3.png" width="100%">
+  <img src="screenshots/3.3.png" width="100%">
 </p>
 
 ---
@@ -208,7 +208,7 @@ For broader questions, the assistant combines multiple relevant transcript chunk
 If a user asks a question outside the Sigma Web Development course, the assistant politely declines and informs the user that it can only answer questions related to the course content.
 
 <p align="center">
-  <img src="screenshots/3.3.png" width="100%">
+  <img src="screenshots/3.png" width="100%">
 </p>
 
 ---
