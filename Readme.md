@@ -171,41 +171,45 @@ RAG-AI-Teaching-Assistant
 
 # 📷 Application Screenshots
 
+# 📸 Screenshots
+
 ## Home Page
 
-![Home](screenshots/1.png)
+The landing page displays the complete RAG pipeline, chatbot interface, and suggested course-related questions for users to get started quickly.
+
+<p align="center">
+  <img src="screenshots/1.png" width="100%">
+</p>
 
 ---
 
-## Asking Questions
+## Semantic Search & Timestamp Retrieval
 
-The assistant retrieves relevant transcript chunks before generating an answer.
+When a user asks a question, the system retrieves the most relevant transcript chunks using semantic search and generates an accurate answer with the corresponding video timestamps.
 
-![Question](screenshots/2.png)
-
----
-
-## Retrieved Context Chunks
-
-Each answer is grounded using the most relevant transcript chunks along with timestamps.
-
-![Retrieved Chunks](screenshots/3.png)
+<p align="center">
+  <img src="screenshots/2.png" width="100%">
+</p>
 
 ---
 
-## Multiple Retrieved Chunks
+## Context-Aware Multi-Chunk Response
 
-The sidebar displays the Top-K retrieved transcript chunks used for answer generation.
+For broader questions, the assistant combines multiple relevant transcript chunks from different videos to generate a comprehensive and context-aware response while preserving timestamp references.
 
-![Retrieved Chunks 2](screenshots/4.png)
+<p align="center">
+  <img src="screenshots/3.png" width="100%">
+</p>
 
 ---
 
-## Out-of-Scope Question Handling
+## Out-of-Scope Query Handling
 
-The assistant gracefully rejects questions that are outside the uploaded course content.
+If a user asks a question outside the Sigma Web Development course, the assistant politely declines and informs the user that it can only answer questions related to the course content.
 
-![Out of Scope](screenshots/5.png)
+<p align="center">
+  <img src="screenshots/3.3.png" width="100%">
+</p>
 
 ---
 
