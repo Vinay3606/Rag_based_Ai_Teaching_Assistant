@@ -171,7 +171,6 @@ RAG-AI-Teaching-Assistant
 
 # 📷 Application Screenshots
 
-# 📸 Screenshots
 
 ## Home Page
 
